@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="152.4mm" height="128.5mm" viewBox="0 0 152.4 128.5">
+  <g inkscape:label="panel" inkscape:groupmode="layer">
+    <rect x="0" y="0" width="152.4" height="128.5" fill="#2b2e33"/>
+    <rect x="0" y="0" width="152.4" height="1.2" fill="#3c4048"/>
+    <rect x="0" y="127.3" width="152.4" height="1.2" fill="#1d1f23"/>
+    <!-- grid, lanes and pattern area -->
+    <rect x="3.2" y="12.2" width="113.2" height="89" rx="1" fill="#16181b"/>
+    <rect x="3.2" y="103" width="113.2" height="20.5" rx="1" fill="#24272c"/>
+    <!-- control column -->
+    <rect x="119.4" y="12.2" width="30.6" height="47.6" rx="1" fill="#24272c"/>
+    <rect x="119.4" y="60.4" width="15.2" height="62.6" rx="1" fill="#24272c"/>
+    <rect x="135.2" y="60.4" width="14.8" height="49.8" rx="1" fill="#3a3e46"/>
+  </g>
+  <g inkscape:label="components" inkscape:groupmode="layer" style="display:none">
+    <rect inkscape:label="note_grid#NoteGridWidget" x="4" y="13" width="111.6" height="63" fill="#ffff00"/>
+    <rect inkscape:label="velocity_lane#LaneWidget" x="10" y="78" width="105.6" height="10" fill="#ffff00"/>
+    <rect inkscape:label="curve_lane#LaneWidget" x="10" y="90" width="105.6" height="10" fill="#ffff00"/>
+    <circle inkscape:label="steps#RoundSmallBlackKnob" cx="127" cy="22" r="3.8" fill="#ff0000"/>
+    <circle inkscape:label="resolution#RoundSmallBlackKnob" cx="143" cy="22" r="3.8" fill="#ff0000"/>
+    <circle inkscape:label="gate#RoundSmallBlackKnob" cx="127" cy="38" r="3.8" fill="#ff0000"/>
+    <circle inkscape:label="shuffle#RoundSmallBlackKnob" cx="143" cy="38" r="3.8" fill="#ff0000"/>
+    <circle inkscape:label="octave#CKSSThree" cx="127" cy="53" r="2" fill="#ff0000"/>
+    <circle inkscape:label="run#VCVLightBezel&lt;GreenLight&gt;" cx="143" cy="53" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="bank_a#VCVLightBezel&lt;YellowLight&gt;" cx="13" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="bank_b#VCVLightBezel&lt;YellowLight&gt;" cx="22" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="bank_c#VCVLightBezel&lt;YellowLight&gt;" cx="31" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="bank_d#VCVLightBezel&lt;YellowLight&gt;" cx="40" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_1#VCVLightBezel&lt;RedLight&gt;" cx="52" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_2#VCVLightBezel&lt;RedLight&gt;" cx="61" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_3#VCVLightBezel&lt;RedLight&gt;" cx="70" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_4#VCVLightBezel&lt;RedLight&gt;" cx="79" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_5#VCVLightBezel&lt;RedLight&gt;" cx="88" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_6#VCVLightBezel&lt;RedLight&gt;" cx="97" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_7#VCVLightBezel&lt;RedLight&gt;" cx="106" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="pattern_8#VCVLightBezel&lt;RedLight&gt;" cx="115" cy="112" r="3.6" fill="#ff0000"/>
+    <circle inkscape:label="clock" cx="127" cy="66" r="4" fill="#00ff00"/>
+    <circle inkscape:label="reset" cx="127" cy="78.5" r="4" fill="#00ff00"/>
+    <circle inkscape:label="run" cx="127" cy="91" r="4" fill="#00ff00"/>
+    <circle inkscape:label="pattern_cv" cx="127" cy="103.5" r="4" fill="#00ff00"/>
+    <circle inkscape:label="bank_cv" cx="127" cy="116" r="4" fill="#00ff00"/>
+    <circle inkscape:label="note" cx="143" cy="66" r="4" fill="#0000ff"/>
+    <circle inkscape:label="gate" cx="143" cy="78.5" r="4" fill="#0000ff"/>
+    <circle inkscape:label="velocity" cx="143" cy="91" r="4" fill="#0000ff"/>
+    <circle inkscape:label="curve" cx="143" cy="103.5" r="4" fill="#0000ff"/>
+  </g>
+</svg>

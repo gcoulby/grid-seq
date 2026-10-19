@@ -1,0 +1,6 @@
+.temp/
+build/
+dist/
+plugin.dll
+plugin.so
+plugin.dylib

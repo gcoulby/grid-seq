@@ -1,0 +1,25 @@
+{
+  "slug": "GridSeq",
+  "name": "GridSeq",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "GridSeq",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "GridSeq",
+      "name": "GridSeq",
+      "description": "Grid pattern sequencer with note, gate, velocity and curve outputs",
+      "tags": [
+        "Sequencer"
+      ]
+    }
+  ]
+}
